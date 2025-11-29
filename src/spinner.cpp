@@ -1,7 +1,7 @@
 #include "spinner.h"
 
 // Значения констант
-const int Spinner::SPINNER_UPDATE = 70;
+const int Spinner::SPINNER_UPDATE = 110;
 const int Spinner::SPINNER_FADE_TIME = 1300; // 2 секунды
 const char Spinner::_chars[5] = {'|','/','-', 7, '*'}; // добавлен '*'
 
